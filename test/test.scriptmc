@@ -1,7 +1,7 @@
-func test: {
+func test {
     output("This is a test")
 }
 
-func hello: {
+func hello {
     output("Hello, world!")
 }
