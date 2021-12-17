@@ -1,0 +1,7 @@
+func test: {
+    output("This is a test")
+}
+
+func hello: {
+    output("Hello, world!")
+}

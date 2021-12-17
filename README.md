@@ -1,2 +1,2 @@
 # ScriptMC
-Write code in this language and compile to Minecraft datapacks!
+Write code in ScriptMC language and compile to Minecraft datapacks!
